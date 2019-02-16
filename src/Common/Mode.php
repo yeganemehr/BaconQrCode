@@ -1,9 +1,9 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Common;
+namespace packages\BaconQrCode\Common;
 
-use DASPRiD\Enum\AbstractEnum;
+use packages\Enum\AbstractEnum;
 
 /**
  * Enum representing various modes in which data can be encoded to bits.

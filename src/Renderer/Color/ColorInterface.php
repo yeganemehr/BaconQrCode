@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Color;
+namespace packages\BaconQrCode\Renderer\Color;
 
 interface ColorInterface
 {

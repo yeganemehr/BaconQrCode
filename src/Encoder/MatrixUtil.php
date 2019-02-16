@@ -1,13 +1,13 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Encoder;
+namespace packages\BaconQrCode\Encoder;
 
-use BaconQrCode\Common\BitArray;
-use BaconQrCode\Common\ErrorCorrectionLevel;
-use BaconQrCode\Common\Version;
-use BaconQrCode\Exception\RuntimeException;
-use BaconQrCode\Exception\WriterException;
+use packages\BaconQrCode\Common\BitArray;
+use packages\BaconQrCode\Common\ErrorCorrectionLevel;
+use packages\BaconQrCode\Common\Version;
+use packages\BaconQrCode\Exception\RuntimeException;
+use packages\BaconQrCode\Exception\WriterException;
 
 /**
  * Matrix utility.

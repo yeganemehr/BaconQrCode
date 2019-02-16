@@ -1,11 +1,11 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Encoder;
+namespace packages\BaconQrCode\Encoder;
 
-use BaconQrCode\Common\ErrorCorrectionLevel;
-use BaconQrCode\Common\Mode;
-use BaconQrCode\Common\Version;
+use packages\BaconQrCode\Common\ErrorCorrectionLevel;
+use packages\BaconQrCode\Common\Mode;
+use packages\BaconQrCode\Common\Version;
 
 /**
  * QR code.

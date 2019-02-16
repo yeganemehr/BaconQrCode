@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Encoder;
+namespace packages\BaconQrCode\Encoder;
 
 use SplFixedArray;
 use Traversable;

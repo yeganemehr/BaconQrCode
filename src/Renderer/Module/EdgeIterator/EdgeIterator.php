@@ -1,9 +1,9 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Module\EdgeIterator;
+namespace packages\BaconQrCode\Renderer\Module\EdgeIterator;
 
-use BaconQrCode\Encoder\ByteMatrix;
+use packages\BaconQrCode\Encoder\ByteMatrix;
 use IteratorAggregate;
 use Traversable;
 

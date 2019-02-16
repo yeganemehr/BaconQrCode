@@ -1,12 +1,12 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Module;
+namespace packages\BaconQrCode\Renderer\Module;
 
-use BaconQrCode\Encoder\ByteMatrix;
-use BaconQrCode\Exception\InvalidArgumentException;
-use BaconQrCode\Renderer\Module\EdgeIterator\EdgeIterator;
-use BaconQrCode\Renderer\Path\Path;
+use packages\BaconQrCode\Encoder\ByteMatrix;
+use packages\BaconQrCode\Exception\InvalidArgumentException;
+use packages\BaconQrCode\Renderer\Module\EdgeIterator\EdgeIterator;
+use packages\BaconQrCode\Renderer\Path\Path;
 
 /**
  * Rounds the corners of module groups.

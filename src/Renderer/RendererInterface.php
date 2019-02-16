@@ -1,9 +1,9 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer;
+namespace packages\BaconQrCode\Renderer;
 
-use BaconQrCode\Encoder\QrCode;
+use packages\BaconQrCode\Encoder\QrCode;
 
 interface RendererInterface
 {

@@ -1,12 +1,12 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\RendererStyle;
+namespace packages\BaconQrCode\Renderer\RendererStyle;
 
-use BaconQrCode\Renderer\Eye\EyeInterface;
-use BaconQrCode\Renderer\Eye\ModuleEye;
-use BaconQrCode\Renderer\Module\ModuleInterface;
-use BaconQrCode\Renderer\Module\SquareModule;
+use packages\BaconQrCode\Renderer\Eye\EyeInterface;
+use packages\BaconQrCode\Renderer\Eye\ModuleEye;
+use packages\BaconQrCode\Renderer\Module\ModuleInterface;
+use packages\BaconQrCode\Renderer\Module\SquareModule;
 
 final class RendererStyle
 {

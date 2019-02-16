@@ -1,12 +1,12 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode;
+namespace packages\BaconQrCode;
 
-use BaconQrCode\Common\ErrorCorrectionLevel;
-use BaconQrCode\Encoder\Encoder;
-use BaconQrCode\Exception\InvalidArgumentException;
-use BaconQrCode\Renderer\RendererInterface;
+use packages\BaconQrCode\Common\ErrorCorrectionLevel;
+use packages\BaconQrCode\Encoder\Encoder;
+use packages\BaconQrCode\Exception\InvalidArgumentException;
+use packages\BaconQrCode\Renderer\RendererInterface;
 
 /**
  * QR code writer.

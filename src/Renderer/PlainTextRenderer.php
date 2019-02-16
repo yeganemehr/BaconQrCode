@@ -1,10 +1,10 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer;
+namespace packages\BaconQrCode\Renderer;
 
-use BaconQrCode\Encoder\QrCode;
-use BaconQrCode\Exception\InvalidArgumentException;
+use packages\BaconQrCode\Encoder\QrCode;
+use packages\BaconQrCode\Exception\InvalidArgumentException;
 
 final class PlainTextRenderer implements RendererInterface
 {

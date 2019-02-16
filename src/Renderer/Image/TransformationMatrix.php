@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Image;
+namespace packages\BaconQrCode\Renderer\Image;
 
 final class TransformationMatrix
 {

@@ -1,10 +1,10 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Common;
+namespace packages\BaconQrCode\Common;
 
-use BaconQrCode\Exception\OutOfBoundsException;
-use DASPRiD\Enum\AbstractEnum;
+use packages\BaconQrCode\Exception\OutOfBoundsException;
+use packages\Enum\AbstractEnum;
 
 /**
  * Enum representing the four error correction levels.

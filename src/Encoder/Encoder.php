@@ -1,15 +1,15 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Encoder;
+namespace packages\BaconQrCode\Encoder;
 
-use BaconQrCode\Common\BitArray;
-use BaconQrCode\Common\CharacterSetEci;
-use BaconQrCode\Common\ErrorCorrectionLevel;
-use BaconQrCode\Common\Mode;
-use BaconQrCode\Common\ReedSolomonCodec;
-use BaconQrCode\Common\Version;
-use BaconQrCode\Exception\WriterException;
+use packages\BaconQrCode\Common\BitArray;
+use packages\BaconQrCode\Common\CharacterSetEci;
+use packages\BaconQrCode\Common\ErrorCorrectionLevel;
+use packages\BaconQrCode\Common\Mode;
+use packages\BaconQrCode\Common\ReedSolomonCodec;
+use packages\BaconQrCode\Common\Version;
+use packages\BaconQrCode\Exception\WriterException;
 use SplFixedArray;
 
 /**

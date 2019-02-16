@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Common;
+namespace packages\BaconQrCode\Common;
 
 /**
  * Encapsulates a set of error-correction blocks in one symbol version.

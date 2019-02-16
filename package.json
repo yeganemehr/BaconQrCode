@@ -1,0 +1,6 @@
+{
+	"dependencies": ["Enum"],
+	"autoload": {
+		"directories": ["src"]
+	}
+}

@@ -1,10 +1,10 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Encoder;
+namespace packages\BaconQrCode\Encoder;
 
-use BaconQrCode\Common\BitUtils;
-use BaconQrCode\Exception\InvalidArgumentException;
+use packages\BaconQrCode\Common\BitUtils;
+use packages\BaconQrCode\Exception\InvalidArgumentException;
 
 /**
  * Mask utility.

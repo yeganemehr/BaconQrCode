@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Path;
+namespace packages\BaconQrCode\Renderer\Path;
 
 interface OperationInterface
 {

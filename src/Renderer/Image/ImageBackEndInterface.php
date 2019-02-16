@@ -1,12 +1,12 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Image;
+namespace packages\BaconQrCode\Renderer\Image;
 
-use BaconQrCode\Exception\RuntimeException;
-use BaconQrCode\Renderer\Color\ColorInterface;
-use BaconQrCode\Renderer\Path\Path;
-use BaconQrCode\Renderer\RendererStyle\Gradient;
+use packages\BaconQrCode\Exception\RuntimeException;
+use packages\BaconQrCode\Renderer\Color\ColorInterface;
+use packages\BaconQrCode\Renderer\Path\Path;
+use packages\BaconQrCode\Renderer\RendererStyle\Gradient;
 
 /**
  * Interface for back ends able to to produce path based images.

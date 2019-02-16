@@ -1,9 +1,9 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Eye;
+namespace packages\BaconQrCode\Renderer\Eye;
 
-use BaconQrCode\Renderer\Path\Path;
+use packages\BaconQrCode\Renderer\Path\Path;
 
 /**
  * Interface for describing the look of an eye.

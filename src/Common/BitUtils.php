@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Common;
+namespace packages\BaconQrCode\Common;
 
 /**
  * General bit utilities.

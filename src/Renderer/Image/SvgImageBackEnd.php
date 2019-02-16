@@ -1,19 +1,19 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Image;
+namespace packages\BaconQrCode\Renderer\Image;
 
-use BaconQrCode\Exception\RuntimeException;
-use BaconQrCode\Renderer\Color\Alpha;
-use BaconQrCode\Renderer\Color\ColorInterface;
-use BaconQrCode\Renderer\Path\Close;
-use BaconQrCode\Renderer\Path\Curve;
-use BaconQrCode\Renderer\Path\EllipticArc;
-use BaconQrCode\Renderer\Path\Line;
-use BaconQrCode\Renderer\Path\Move;
-use BaconQrCode\Renderer\Path\Path;
-use BaconQrCode\Renderer\RendererStyle\Gradient;
-use BaconQrCode\Renderer\RendererStyle\GradientType;
+use packages\BaconQrCode\Exception\RuntimeException;
+use packages\BaconQrCode\Renderer\Color\Alpha;
+use packages\BaconQrCode\Renderer\Color\ColorInterface;
+use packages\BaconQrCode\Renderer\Path\Close;
+use packages\BaconQrCode\Renderer\Path\Curve;
+use packages\BaconQrCode\Renderer\Path\EllipticArc;
+use packages\BaconQrCode\Renderer\Path\Line;
+use packages\BaconQrCode\Renderer\Path\Move;
+use packages\BaconQrCode\Renderer\Path\Path;
+use packages\BaconQrCode\Renderer\RendererStyle\Gradient;
+use packages\BaconQrCode\Renderer\RendererStyle\GradientType;
 use XMLWriter;
 
 final class SvgImageBackEnd implements ImageBackEndInterface

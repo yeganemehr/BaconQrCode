@@ -1,10 +1,10 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Common;
+namespace packages\BaconQrCode\Common;
 
-use BaconQrCode\Exception\InvalidArgumentException;
-use DASPRiD\Enum\AbstractEnum;
+use packages\BaconQrCode\Exception\InvalidArgumentException;
+use packages\Enum\AbstractEnum;
 
 /**
  * Encapsulates a Character Set ECI, according to "Extended Channel Interpretations" 5.3.1.1 of ISO 18004.

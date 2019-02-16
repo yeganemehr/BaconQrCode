@@ -1,10 +1,10 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\RendererStyle;
+namespace packages\BaconQrCode\Renderer\RendererStyle;
 
-use BaconQrCode\Exception\RuntimeException;
-use BaconQrCode\Renderer\Color\ColorInterface;
+use packages\BaconQrCode\Exception\RuntimeException;
+use packages\BaconQrCode\Renderer\Color\ColorInterface;
 
 final class EyeFill
 {

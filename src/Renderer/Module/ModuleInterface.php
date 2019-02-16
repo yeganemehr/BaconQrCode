@@ -1,10 +1,10 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Module;
+namespace packages\BaconQrCode\Renderer\Module;
 
-use BaconQrCode\Encoder\ByteMatrix;
-use BaconQrCode\Renderer\Path\Path;
+use packages\BaconQrCode\Encoder\ByteMatrix;
+use packages\BaconQrCode\Renderer\Path\Path;
 
 /**
  * Interface describing how modules should be rendered.

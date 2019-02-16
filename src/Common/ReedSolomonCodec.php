@@ -1,10 +1,10 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Common;
+namespace packages\BaconQrCode\Common;
 
-use BaconQrCode\Exception\InvalidArgumentException;
-use BaconQrCode\Exception\RuntimeException;
+use packages\BaconQrCode\Exception\InvalidArgumentException;
+use packages\BaconQrCode\Exception\RuntimeException;
 use SplFixedArray;
 
 /**

@@ -1,9 +1,9 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Color;
+namespace packages\BaconQrCode\Renderer\Color;
 
-use BaconQrCode\Exception;
+use packages\BaconQrCode\Exception;
 
 final class Rgb implements ColorInterface
 {

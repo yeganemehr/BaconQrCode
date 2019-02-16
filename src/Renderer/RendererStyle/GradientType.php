@@ -1,9 +1,9 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\RendererStyle;
+namespace packages\BaconQrCode\Renderer\RendererStyle;
 
-use DASPRiD\Enum\AbstractEnum;
+use packages\Enum\AbstractEnum;
 
 /**
  * @method static self VERTICAL()

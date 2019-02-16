@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Module\EdgeIterator;
+namespace packages\BaconQrCode\Renderer\Module\EdgeIterator;
 
 final class Edge
 {

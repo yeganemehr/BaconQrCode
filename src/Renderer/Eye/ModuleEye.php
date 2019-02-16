@@ -1,11 +1,11 @@
 <?php
 declare(strict_types = 1);
 
-namespace BaconQrCode\Renderer\Eye;
+namespace packages\BaconQrCode\Renderer\Eye;
 
-use BaconQrCode\Encoder\ByteMatrix;
-use BaconQrCode\Renderer\Module\ModuleInterface;
-use BaconQrCode\Renderer\Path\Path;
+use packages\BaconQrCode\Encoder\ByteMatrix;
+use packages\BaconQrCode\Renderer\Module\ModuleInterface;
+use packages\BaconQrCode\Renderer\Path\Path;
 
 /**
  * Renders an eye based on a module renderer.
